@@ -1,0 +1,163 @@
+.stylinglogo {
+    width:160px;
+    height: 70px;
+
+}
+#go{
+    color:black; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+}
+#go:hover {
+    color:#c90202;
+}
+#go1{
+    background-color:#c90202;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+}
+#go1:hover{
+    background-color:grey;
+    color:#c90202;
+}
+.bgimg{
+    background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.buttonst{
+    color:white;
+    background-color: #c90202;
+    width: 230px;
+    height: 45px;
+    border: none;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;   
+}
+.bgcolor {
+    background-color: #f9fbfe;
+}
+.head2 {
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+.para2 {
+    color:#5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.carding {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;   
+}
+.cardimage {
+    width: 87px;
+    height: 90px;
+}
+.chead{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cpara{
+    color: #7b8794;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.bgcolor3 {
+    background-color: white;
+}
+.explorehead {
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.explorecards {
+    border-radius: 16px;
+}
+.cardhead4 {
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight:bold;
+    margin-top: 24px;
+}
+.explorelink {
+    color:#c90202;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.payhead {
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.paypara{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.paybutton {
+    background-color: #c90202;
+    color:white;
+    width: 130px;
+    height: 45px;
+    border: none;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.paycardimg {
+    width:50px;
+    height: 50px;
+    margin-right:28px;
+}
+.paymentimg{
+    width:100%;
+}
+#contact {
+    background-color: grey;
+    padding-bottom: 4em;
+}
+.socialicons {
+    font-size: 40px;
+    cursor: pointer;
+}
+#icenter {
+    text-align: center;
+}
+.fa-brands {
+    color: white;
+}
+.fa-facebook,.fa-instagram,.fa-linkidin {
+    margin:40px;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover{
+    color: #c90202;
+}
